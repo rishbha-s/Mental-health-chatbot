@@ -8,5 +8,6 @@ This project is a mental health chatbot designed to provide supportive responses
 
 The project consists of two main parts:
 
-Training Script: Prepares the training data, trains the model, and saves the trained model.
-Chatbot GUI Script: Loads the trained model and provides an interface for user interaction.
+**Training Script**: Prepares the training data, trains the model, and saves the trained model.
+
+**Chatbot GUI Script**: Loads the trained model and provides an interface for user interaction.
