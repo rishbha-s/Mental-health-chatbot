@@ -11,3 +11,15 @@ The project consists of two main parts:
 **Training Script**: This script preprocesses the data, creates a bag-of-words model, and trains a neural network to classify user intents. It saves the processed data and trained model for later use.
 
 **Chatbot GUI Script**: This script loads the trained model and data, and provides a graphical user interface for users to interact with the chatbot. It handles user input, predicts intents, and generates responses.
+
+## Requirements:
+
+Python 3.6+
+
+TensorFlow
+
+NLTK
+
+NumPy
+
+Tkinter
